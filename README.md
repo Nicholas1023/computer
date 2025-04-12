@@ -7,7 +7,9 @@ A 1-bit computer built by Nicholas (My first PCB!) (@Nicholas1023 on the Hack Cl
 ## Schematic
 ![Schematic](https://raw.githubusercontent.com/Nicholas1023/computer/refs/heads/main/Schematic.png)
 ## Bill of Materials
-- 3x 6mm Push buttons
-- 3x 5mm LEDs
-- 3x 2N3904 NPN Transistors
-- 1x CR2032 battery holder
+|Qty|Ref. Designator |Name                 |Mounting Type|
+|:-:|:---------------|:--------------------|:------------|
+|1  |BT1             |CR2032 Battery holder|SMD          |
+|3  |D1, D2, D3 (LED)|5mm LED              |THT          |
+|3  |SW1, SW2, SW3   |6mm Push button      |THT          |
+|3  |Q1, Q2, Q3      |2N3904 NPN Transistor|THT          |
