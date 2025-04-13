@@ -10,6 +10,7 @@ A 1-bit computer built by Nicholas (My first PCB!) (@Nicholas1023 on the Hack Cl
 |Qty|Ref. Designator |Name                 |Mounting Type|
 |:-:|:---------------|:--------------------|:------------|
 |1  |BT1             |CR2032 Battery holder|SMD          |
+|1  |R1              |220 ohm Resistor     |THT          |
 |3  |D1, D2, D3 (LED)|5mm LED              |THT          |
 |3  |SW1, SW2, SW3   |6mm Push button      |THT          |
 |3  |Q1, Q2, Q3      |2N3904 NPN Transistor|THT          |
