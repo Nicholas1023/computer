@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+AND INPUT A,SW_PUSH_6mm,1,AND Input (A),
+AND INPUT B,SW_PUSH_6mm,1,AND Input (B),
+AND OUTPUT,LED_D5.0mm,1,AND Output,
+BATTERY,BatteryHolder_Keystone_3034_1x20mm,1,Battery_Cell,
+NOT INPUT,SW_PUSH_6mm,1,NOT Input,
+NOT OUTPUT,LED_D5.0mm,1,NOT Output,
+POWER,LED_D5.0mm,1,Power,
+"Q1, Q2, Q3",TO-92L_HandSolder,3,NPN,
+R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1,R,
