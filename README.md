@@ -1,5 +1,5 @@
 # Nicholas's 1-Bit Logic Gate Computer
-A 1-bit computer built by Nicholas (My first PCB!) (@Nicholas1023 on the Hack Club Slack) that uses AND and NOT gates as its processor, Push buttons as input, and LEDs as output.
+A 1-bit computer built by Nicholas (My first PCB!) (@Nicholas1023 on the Hack Club Slack) that uses AND and NOT gates as its processor, Push buttons as input, and LEDs as output. (The processor symbol next to the transistors is not a component.)
 ## 3D View
 ![3D View](https://raw.githubusercontent.com/Nicholas1023/computer/refs/heads/main/3D_View.png)<br>**Board size: 49.05x48.05 mm**
 ## PCB Layout
