@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BT1,BatteryHolder_Keystone_3034_1x20mm,1,Battery_Cell,
+D1,LED_D5.0mm,1,NOT Output,
+D2,LED_D5.0mm,1,AND Output,
+D3,LED_D5.0mm,1,Power,
+IO PINS,PinHeader_1x04_P2.54mm_Vertical,1,Conn_01x04_Pin,
+"Q1, Q2, Q3",TO-92L_HandSolder,3,NPN,
+R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1,R,
+SW1,SW_PUSH_6mm,1,AND Input (A),
+SW2,SW_PUSH_6mm,1,AND Input (B),
+SW3,SW_PUSH_6mm,1,NOT Input,
