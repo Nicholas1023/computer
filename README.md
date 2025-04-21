@@ -17,3 +17,4 @@ A 1-bit computer built by Nicholas (My first PCB!) (@Nicholas1023 on the Hack Cl
 |3  |Q1, Q2, Q3      |2N3904 NPN Transistor|THT          |
 ## Pinout
 GND: Ground<br>+3V: Power (3V)<br>AND: AND Output<br>NOT: NOT Output
+**Warning:** To prevent damage to the components, do not insert CR2032 battery when the GND and +3V pins are connected!
