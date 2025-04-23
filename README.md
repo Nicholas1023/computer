@@ -11,7 +11,7 @@ A 1-bit computer built by Nicholas (My first PCB!) (@Nicholas1023 on the Hack Cl
 |:-:|:---------------|:--------------------|:------------|
 |1  |BT1             |CR2032 Battery holder|SMD          |
 |1  |R1              |Resistor             |THT          |
-|1  |J1 (IO Pins)    |1x04 2.54mm Connector|THT          |
+|1  |J1              |1x04 2.54mm Connector|THT          |
 |3  |D1, D2, D3 (LED)|5mm LED              |THT          |
 |3  |SW1, SW2, SW3   |6mm Push button      |THT          |
 |3  |Q1, Q2, Q3      |2N3904 NPN Transistor|THT          |
